@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Sep 2023 12:02:05 at http://adamthemes.com/demo/html/ann/two/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://adamthemes.com/demo/html/ann/two/index.html -O1 "C:\My Web Sites\bride5" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:04:40	Warning: 	Retry after error -2 (Receive Time Out) at link adamthemes.com/demo/html/ann/two/img/services/effect-makeup.jpg (from adamthemes.com/demo/html/ann/two/index.html)
+12:07:44	Warning: 	Retry after error -2 (Receive Time Out) at link adamthemes.com/demo/html/ann/two/fonts/fontawesome-webfont-.eot (from adamthemes.com/demo/html/ann/two/css/font-awesome.min.css)
+12:07:44	Error: 	"Not Found" (404) at link wowthemez.com/templates/elexer/css/owl.video.play.png (from adamthemes.com/demo/html/ann/two/css/owl.carousel.css)
+12:07:44	Warning: 	Retry after error -2 (Receive Time Out) at link adamthemes.com/demo/html/ann/two/img/portfolio/p-01.jpg (from adamthemes.com/demo/html/ann/two/portfolio.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 42 seconds : 66 links scanned, 61 files written (4505498 bytes overall) [3626051 bytes received at 10602 bytes/sec], 1238011 bytes transferred using HTTP compression in 23 files, ratio 27%, 2.2 requests per connection
+(1 errors, 3 warnings, 0 messages)
